@@ -3,6 +3,7 @@ import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
 import ErrorBoundry from '../components/ErrorBoundry';
+import '../components/styles.css'
 
 
 class App extends Component {
@@ -32,7 +33,8 @@ class App extends Component {
         <h1 className='tc'> Loading ... </h1>
         :
                 <div className='tc'>
-                    <h1>RoboFriends</h1>
+                    <h1 className='title'>RoboFriends</h1>
+                    <hr/>
                     <SearchBox searchChange={this.onSearchChange}/>
                     <Scroll>
                         <ErrorBoundry>

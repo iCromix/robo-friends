@@ -1,22 +1,60 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
 
 .xd {
     text-align: center;
     font-size: 1.5em;
     font-family: 'Mulish', sans-serif;
-    background-color: rgba(181, 255, 238,0.8);
+    background-color: rgb(56, 126, 222);
     outline: none;
     border: none;
-    transition: background-color 2s;
-    margin: 20px;
+    border-radius: 5px;
+    transition: width 0.2s, background-color 150ms;
+    margin-bottom: 30px;
+    width: 20%;
+    color: white;
 }
 
 .xd:focus {
-    background-color: rgba(142, 255, 229,1);
     outline:none;
     border:none;
+    width: 25%;
 }
 
-:input:focus::placeholder {
-    color: transparent
+@media (max-width: 900px) {
+    .xd {
+        width: 50vw;
+    }
+}
+
+.xd:hover {
+    background-color: rgb(116, 174, 255);
+}
+input::-webkit-input-placeholder {
+    color: white;
+}
+
+input:focus::-webkit-input-placeholder {
+    color: transparent;
+}
+
+input:-moz-placeholder {
+    color: white;
+}
+
+input:focus:-moz-placeholder {
+    color: transparent;
+}
+
+input:-moz-placeholder {
+    color: white;
+}
+
+input:focus::-moz-placeholder {
+    color: transparent;
+}
+
+
+input:focus:-ms-input-placeholder {
+    color: transparent;
 }

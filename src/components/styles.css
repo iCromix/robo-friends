@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+hr {
+    margin: 30px auto 30px auto;
+    background-color: rgb(53, 126, 221);
+    width: 60%;
+    height: 7px;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+}
+
+.title {
+    font-family: 'Staatliches', cursive;
+    font-size: 5em;
+}
