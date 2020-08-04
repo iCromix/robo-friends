@@ -11,6 +11,18 @@ hr {
 }
 
 .title {
+	color: #357EDD;
+	text-shadow: 1px 1px 1px white;
     font-family: 'Staatliches', cursive;
     font-size: 5em;
+    transition: all 0.5s;
+}
+
+.rnames {
+	color: white;
+	transition: 2s all;
+}
+
+.rnames:hover {
+	
 }
