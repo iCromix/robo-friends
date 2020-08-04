@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/robo-friends/static/css/main.ead78adc.chunk.css",
-    "main.js": "/robo-friends/static/js/main.2fd3e224.chunk.js",
-    "main.js.map": "/robo-friends/static/js/main.2fd3e224.chunk.js.map",
+    "main.css": "/robo-friends/static/css/main.b69e0e96.chunk.css",
+    "main.js": "/robo-friends/static/js/main.3a2a4305.chunk.js",
+    "main.js.map": "/robo-friends/static/js/main.3a2a4305.chunk.js.map",
     "runtime-main.js": "/robo-friends/static/js/runtime-main.17f36485.js",
     "runtime-main.js.map": "/robo-friends/static/js/runtime-main.17f36485.js.map",
     "static/css/2.3c03f26f.chunk.css": "/robo-friends/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.f690e5d6.chunk.js": "/robo-friends/static/js/2.f690e5d6.chunk.js",
-    "static/js/2.f690e5d6.chunk.js.map": "/robo-friends/static/js/2.f690e5d6.chunk.js.map",
+    "static/js/2.b65a0466.chunk.js": "/robo-friends/static/js/2.b65a0466.chunk.js",
+    "static/js/2.b65a0466.chunk.js.map": "/robo-friends/static/js/2.b65a0466.chunk.js.map",
     "index.html": "/robo-friends/index.html",
-    "precache-manifest.3672ac7212b4485003996fd46bf86bff.js": "/robo-friends/precache-manifest.3672ac7212b4485003996fd46bf86bff.js",
+    "precache-manifest.524c55520c4be1cbcb0415cf4303dcfe.js": "/robo-friends/precache-manifest.524c55520c4be1cbcb0415cf4303dcfe.js",
     "service-worker.js": "/robo-friends/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/robo-friends/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.ead78adc.chunk.css.map": "/robo-friends/static/css/main.ead78adc.chunk.css.map",
-    "static/js/2.f690e5d6.chunk.js.LICENSE.txt": "/robo-friends/static/js/2.f690e5d6.chunk.js.LICENSE.txt"
+    "static/css/main.b69e0e96.chunk.css.map": "/robo-friends/static/css/main.b69e0e96.chunk.css.map",
+    "static/js/2.b65a0466.chunk.js.LICENSE.txt": "/robo-friends/static/js/2.b65a0466.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.17f36485.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.f690e5d6.chunk.js",
-    "static/css/main.ead78adc.chunk.css",
-    "static/js/main.2fd3e224.chunk.js"
+    "static/js/2.b65a0466.chunk.js",
+    "static/css/main.b69e0e96.chunk.css",
+    "static/js/main.3a2a4305.chunk.js"
   ]
 }
