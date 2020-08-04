@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+ import React, { Component } from 'react';
 import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
@@ -7,7 +7,7 @@ import { connect } from 'react-redux';
 import '../components/styles.css'
 import { setSearchField } from '../actions';
 
-const mapStateToProps = state => {
+const mapStateToProps = (state) => {
     return {
         searchField: state.searchRobots.searchField
     }
@@ -23,8 +23,7 @@ class App extends Component {
     constructor() {
         super()
         this.state = {
-            robots: [],
-            searchfield: ''
+            robots: []
         };
     }
 
